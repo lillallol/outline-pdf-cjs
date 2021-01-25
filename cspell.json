@@ -1,0 +1,9 @@
+
+{
+	"language": "en",
+	"ignorePaths": ["dist/**","node_modules/**","./**/*.pdf","package-lock.json","jest.config.js","coverage/**","TBD/**","TODO.md"],
+	"words": [
+        "lillallol",
+        "unimported"
+	]
+}
