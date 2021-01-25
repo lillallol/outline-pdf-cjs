@@ -1,9 +1,9 @@
 ## Table of contents
 
-- [Description](#description)
-- [Installation](#installation)
-- [Example](#example)
-- [License](#license)
+-   [Description](#description)
+-   [Installation](#installation)
+-   [Example](#example)
+-   [License](#license)
 
 ## Description
 
@@ -21,13 +21,13 @@ npm install @lillallol/outline-pdf-cjs
 import { outlinePdfCjs } from "@lillallol/outline-pdf";
 
 await outlinePdfCjs({
-	loadPath: "path/to/pdf/to/outline.pdf",
-	savePath: "path/to/save/outlined.pdf",
-	// first column  : page number
-	//                 negative for collapsing outline
-	// second column : outline depth
-	// third column  : outline title
-	outline: `
+    loadPath: "path/to/pdf/to/outline.pdf",
+    savePath: "path/to/save/outlined.pdf",
+    // first column  : page number
+    //                 negative for collapsing outline
+    // second column : outline depth
+    // third column  : outline title
+    outline: `
          1||Title 1
          2|-|Title 2
         -3|--|Title 3

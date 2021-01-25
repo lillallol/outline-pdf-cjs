@@ -47,5 +47,10 @@
     "dependencies": {
         "@lillallol/outline-pdf": "^3.0.0",
         "pdf-lib": "^1.15.0"
-    }
+    },
+    "bugs": {
+        "url": "https://github.com/lillallol/outline-pdf-cjs/issues"
+    },
+    "repository": "https://github.com/lillallol/outline-pdf-cjs",
+    "homepage": "https://github.com/lillallol/outline-pdf-cjs"
 }
