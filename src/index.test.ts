@@ -27,8 +27,8 @@ describe(outlinePdfCjs.name, () => {
                 4|---|Some random title 4
                 5|---|Some random title 5
                 6|-|Some random title 6
-                7||Some random title 7
-			`,
+            `,
+            // 7||Some random title 7
         });
         //@TODO this test just checks whether the function produces a new pdf
         //it does not check whether the created pdf has the expected outline
