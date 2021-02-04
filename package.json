@@ -1,6 +1,6 @@
 {
     "name": "@lillallol/outline-pdf-cjs",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Add outline to outline-less pdf. Works in node and does not have any dependency on other programming languages.",
     "main": "./dist/index.js",
     "types": "./dist/index.d.ts",
