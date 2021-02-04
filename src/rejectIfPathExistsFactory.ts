@@ -18,6 +18,6 @@ export function rejectIfPathExistsFactory(fs: { promises: { access: typeof _acce
 export const _errorMessages = {
     pathExist: (path: string): string =>
         `
-	    	The is already a file or directory for the provided path "${path}".
+	    	There is already a file or directory for the provided path "${path}".
 	    `.trim(),
 };
