@@ -45,7 +45,7 @@
         "unimported": "^1.5.0"
     },
     "dependencies": {
-        "@lillallol/outline-pdf": "^3.0.2",
+        "@lillallol/outline-pdf": "^3.0.3",
         "pdf-lib": "^1.16.0"
     },
     "bugs": {
