@@ -5,6 +5,8 @@
 -   [Example](#example)
 -   [License](#license)
 
+> **NOTICE**: If you have outlined your pdf using a version from 1.0.0 to 1.0.4, then if you edit your pdf it will get corrupted due to a bug introduced by @lillallol/outline-pdf. From version 1.0.5 this bug has been resolved.
+
 ## Description
 
 Like [@lillallol/outline-pdf](https://www.npmjs.com/package/@lillallol/outline-pdf) but with a higher level API that takes advantage of the node file system.
