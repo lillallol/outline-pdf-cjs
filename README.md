@@ -20,7 +20,7 @@ npm install @lillallol/outline-pdf-cjs
 ## Example
 
 ```ts
-import { outlinePdfCjs } from "@lillallol/outline-pdf";
+import { outlinePdfCjs } from "@lillallol/outline-pdf-cjs";
 
 await outlinePdfCjs({
     loadPath: "path/to/pdf/to/outline.pdf",
